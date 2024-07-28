@@ -2,7 +2,7 @@
 
 A group of Vatican City police officers are planning a trip to Canada.
 Since they only speak Pig Latin, they will need to translate a lot of English phrases. Write
-a simple program to perform basic English to Pig Latin translation
+a simple program to perform basic English to Pig Latin translation.
 
 Translation rules
 1. Separate each word into two parts. The first part is called the prefix and
